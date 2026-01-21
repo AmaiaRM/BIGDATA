@@ -1,0 +1,4 @@
+pandas
+python-dateutil
+websocket-client
+requests
